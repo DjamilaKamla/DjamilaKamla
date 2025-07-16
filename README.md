@@ -40,14 +40,6 @@ RStudio · Jupyter Notebook · Excel (advanced + Power Query + VBA) · GitHub ·
 
 ---
 
-## 🚀 Featured Project
-
-🔗 [fiber-deployment-economic-impact](https://github.com/DjamilaKamla/fiber-deployment-economic-impact)  
-*Master thesis: the economic impact of fiber deployment in rural France*  
-> Panel data from 2016 to 2023, Diff-in-Diff identification (Callaway & Sant’Anna), open-source processing & visualizations
-
----
-
 ## ✨ Goal
 
 Turning complex economic data into clear, rigorous, and accessible insights.  
@@ -90,14 +82,6 @@ Always open to public-interest, data-driven or digital transition projects.
 
 **Outils :**  
 RStudio · Jupyter Notebook · Excel (avancé + Power Query + VBA) · GitHub · Shiny 
-
----
-
-## 🚀 Projet en avant
-
-🔗 [fiber-deployment-economic-impact](https://github.com/DjamilaKamla/fiber-deployment-economic-impact)  
-*Mémoire de recherche : impact économique du déploiement de la fibre optique en zone rurale*  
-> Panel de données 2016–2023, identification en Diff-in-Diff (Callaway & Sant’Anna), traitement et visualisations en open source
 
 ---
 
