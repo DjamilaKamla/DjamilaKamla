@@ -11,7 +11,7 @@
 
 ## 🇬🇧 English version
 # 👋 Hi, I'm Djamila
-🎓 Master’s student in *Economic Analysis* (CY Cergy Paris Université & ESSEC)  
+🎓 MSc in *Economic Analysis* (CY Cergy Paris Université & ESSEC)  
 📊 Specialized in **applied econometrics**, **data analysis**, and **quantitative modeling**  
 🌱 Experienced in **renewable energy markets** and **public policy evaluation**  
 🌍 Interested in the impact of digital infrastructure, territorial inequalities, and sustainable development
@@ -64,7 +64,7 @@ Always open to public-interest, data-driven or digital transition projects.
 ## 🇫🇷 Version française
 # 👋 Salut, moi c'est Djamila
 
-🎓 Étudiante en Master 2 *Economic Analysis* (CY Cergy Paris Université & ESSEC)  
+🎓 Master *Economic Analysis* (CY Cergy Paris Université & ESSEC)  
 📊 Spécialisée en **économétrie appliquée**, **analyse de données** et **modélisation quantitative**  
 🌱 Expérience dans les **marchés de l’énergie renouvelable** et l’**évaluation des politiques publiques**  
 🌍 Intéressée par l’impact des infrastructures numériques, les inégalités territoriales et le développement durable
