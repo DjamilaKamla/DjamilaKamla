@@ -36,7 +36,7 @@
 ![VBA](https://img.shields.io/badge/VBA-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 **Tools:**  
-RStudio · Jupyter Notebook · Excel (advanced + Power Query + VBA) · GitHub · Shiny · Canva
+RStudio · Jupyter Notebook · Excel (advanced + Power Query + VBA) · GitHub · Shiny 
 
 ---
 
@@ -89,7 +89,7 @@ Always open to public-interest, data-driven or digital transition projects.
 ![VBA](https://img.shields.io/badge/VBA-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 **Outils :**  
-RStudio · Jupyter Notebook · Excel (avancé + Power Query + VBA) · GitHub · Shiny · Canva
+RStudio · Jupyter Notebook · Excel (avancé + Power Query + VBA) · GitHub · Shiny 
 
 ---
 
