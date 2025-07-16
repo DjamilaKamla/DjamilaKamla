@@ -59,7 +59,7 @@ Always open to public-interest, data-driven or digital transition projects.
 
 📧 faresdjamila@gmail.com  
 📍 Île-de-France  
-🔗 [LinkedIn](https://linkedin.com/in/...) *(add your link if you want)*
+🔗 [LinkedIn](https://www.linkedin.com/in/djamila-kamla-fares-1bb5261b6/) 
 
 ## 🇫🇷 Version française
 # 👋 Salut, moi c'est Djamila
@@ -112,5 +112,5 @@ Toujours prête à contribuer à des projets d’intérêt public, data science 
 
 📧 faresdjamila@gmail.com  
 📍 Île-de-France  
-🔗 [LinkedIn](https://linkedin.com/in/...) *(ajoute ton lien ici si tu veux)*
+🔗 [LinkedIn](https://www.linkedin.com/in/djamila-kamla-fares-1bb5261b6/)
 
