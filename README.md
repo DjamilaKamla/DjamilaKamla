@@ -1,5 +1,5 @@
 
-# 👋 Djamila Kamla Fares
+# Djamila Kamla Fares
 
 🎓 MSc in Economic Analysis (ESSEC & CY Cergy)  
 🔋 Analyst, Energy · Economics · Data · Low-Carbon Modeling  
