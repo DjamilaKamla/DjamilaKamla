@@ -2,16 +2,16 @@
 # 👋 Djamila Kamla Fares
 
 🎓 MSc in Economic Analysis (ESSEC & CY Cergy)  
-🔋 Junior Consultant – Energy, Low Carbon Strategy & Quantitative Modeling  
+🔋 Analyst, Energy · Economics · Data · Low-Carbon Modeling  
 📍 Île-de-France, France  
 📧 faresdjamila@gmail.com  
-🔗 LinkedIn: (add your link here)
+🔗 LinkedIn: https://www.linkedin.com/in/djamila-kamla-fares-1bb5261b6/
 
 ---
 
 # 📚 Table of Contents
-- 🇬🇧 English version  
-- 🇫🇷 Version française  
+- 🇬🇧 English Version  
+- 🇫🇷 Version Française  
 
 ---
 
@@ -19,58 +19,57 @@
 
 ## 👋 Hi, I'm Djamila
 
-I’m an analyst specialized in **energy markets, economic modeling, and low-carbon strategy**.  
-With a background in **quantitative economics**, I work at the intersection of:
+I’m an analyst working at the intersection of **energy systems**, **quantitative economics**, and **data-driven decision making**.
 
-- 🔋 energy transition & decarbonization  
-- 📊 economic & financial modeling (LCOH, pricing, forecasting)  
-- 🧠 decision-support tools  
-- 🔍 market analysis & strategic insights  
+My background combines:
+- 🔋 **energy market understanding**  
+- 📊 **economic & financial modeling**  
+- 🧠 **applied econometrics & forecasting**  
+- 🚀 **conceptual and analytical thinking**  
+- 🗂 **data structuring & process optimization**
 
-I’m particularly interested in the **future of electricity systems**, **hydrogen economics**, **energy market design**, and the broader **geopolitics of the low-carbon transition**.
+I enjoy turning complex technical and economic problems into **clear, structured and actionable insights** — whether for strategic decisions, modeling, or operational improvements.
 
 ---
 
-## 💡 What I Do
+## 💡 What I Work On
 
-- 📈 **Energy market analysis** (spot prices, balancing costs, risk & volatility)  
-- ⚙️ **Economic & financial modeling** (LCOH, sensitivity analysis, business cases)  
-- 🧠 **Decision-making tools** (pricing simulators, forecasting apps, internal libraries)  
-- 🔍 **Economic data analysis** (time series, econometrics, causal inference)  
-- 🗂 **Process transformation & data structuring**  
+- **Energy markets**: price dynamics, balancing costs, scenarios, volatility  
+- **Low-carbon economics**: hydrogen LCOH, techno-cost trajectories, sensitivity analysis  
+- **Economic modeling**: forecasting, time series, applied econometrics  
+- **Decision-support tools**: simulators, webapps, internal libraries  
+- **Data workflows**: APIs, automation, SQL pipelines, data cleaning  
+- **Strategic / analytical work**: scenario building, market understanding, conceptual frameworks  
 
 ---
 
 ## 🧰 Languages & Tools
 
 **Languages**  
-- Python  
-- R  
-- SQL  
-- VBA  
-- SAS (basics)
+Python · R · SQL · VBA · SAS (basics)
 
-**Tools & Frameworks**  
-- RStudio · Jupyter Notebook · Streamlit · Shiny  
-- Excel (advanced incl. Power Query & VBA)  
-- GitHub  
-- Power BI  
+**Tools**  
+RStudio · Jupyter Notebook · Excel (Power Query + VBA) · Streamlit · Shiny · GitHub · Power BI
 
 ---
 
-## ✨ Goal
+## ✨ My Goal
 
-My objective is to build **clear, useful and strategic tools** helping organizations navigate the complexity of the **energy transition** and make informed decisions.
+Build tools, models and analyses that **clarify complex systems**  
+and help organizations navigate energy, economic and digital transitions.
 
-I love turning technical models into **actionable business insights**, and transforming data into **strategic vision**.
+I like balancing:
+- quantitative rigor,  
+- strategic intuition,  
+- and clear communication.
 
 ---
 
-## 📫 Get in Touch
+## 📫 Contact
 
 📧 **faresdjamila@gmail.com**  
 📍 Île-de-France  
-🔗 **LinkedIn**: (your link)
+🔗 LinkedIn: https://www.linkedin.com/in/djamila-kamla-fares-1bb5261b6/
 
 ---
 
@@ -78,51 +77,46 @@ I love turning technical models into **actionable business insights**, and trans
 
 ## 👋 Salut, moi c’est Djamila
 
-Je suis analyste spécialisée en **marchés de l’énergie, modélisation économique** et **stratégie bas-carbone**.  
-Grâce à une formation quantitative solide et des expériences en entreprise, je travaille au croisement :
+Je suis analyste spécialisée en **économie de l’énergie**, **modélisation quantitative**, et **données appliquées à la prise de décision**.
 
-- 🔋 de la transition énergétique  
-- 📊 de la modélisation économique et financière (LCOH, pricing, prévisions)  
-- 🧠 des outils d’aide à la décision  
-- 🔍 des études de marché & analyses stratégiques  
+Mon profil mêle :
+- 🔋 compréhension des **marchés de l’électricité**  
+- 📊 **modélisation économique et financière**  
+- 🧠 économétrie appliquée & prévisions  
+- 🚀 analyse stratégique et conceptualisation  
+- 🗂 structuration de données et automatisation  
 
-Je m’intéresse particulièrement à :  
-la **conception des marchés électriques**, l’économie de l’hydrogène, les **scénarios bas-carbone**, et la géopolitique de l’énergie.
+J’aime transformer des sujets complexes (marché élec, hydrogène, coûts, modèles économiques) en **analyses claires et exploitables**.
 
 ---
 
 ## 💡 Ce que je fais
 
-- 📈 Analyse des **marchés de l’électricité** (spot, équilibrage, volatilité)  
-- ⚙️ **Modélisation économique et financière** (LCOH, business cases, analyses de sensibilité)  
-- 🧠 Conception d’**outils d’aide à la décision** (simulateurs, applications de prévision, librairies internes)  
-- 🔍 Analyse de données économiques (séries temporelles, économétrie, causalité)  
-- 🗂 Structuration & transformation de processus métiers  
+- Analyse des **marchés énergétiques** : prix, scénarios, équilibres, volatilité  
+- **Transition bas-carbone** : LCOH hydrogène, trajectoires techno-éco, analyses de sensibilité  
+- **Modélisation économique** : séries temporelles, forecasting, économétrie appliquée  
+- **Outils d’aide à la décision** : simulateurs, webapps, librairies internes  
+- **Pipelines de données** : API, automatisation, SQL, nettoyage  
+- **Analyses stratégiques** : compréhension des enjeux, scénarios, structuration  
 
 ---
 
 ## 🧰 Langages & Outils
 
 **Langages**  
-- Python  
-- R  
-- SQL  
-- VBA  
-- SAS (bases)
+Python · R · SQL · VBA · SAS (base)
 
 **Outils**  
-- RStudio · Jupyter Notebook · Streamlit · Shiny  
-- Excel avancé (Power Query, VBA)  
-- Power BI  
-- GitHub  
+RStudio · Jupyter · Shiny · Streamlit · Excel avancé · Power BI · GitHub
 
 ---
 
 ## ✨ Objectif
 
-Construire des modèles, outils et analyses qui permettent aux acteurs du secteur énergie de **prendre de meilleures décisions** dans un contexte de transition bas-carbone.
+Mettre la **rigueur économique**, la **donnée** et la **modélisation** au service  
+d’analyses stratégiques et opérationnelles dans le secteur de l’énergie et de la transition bas-carbone.
 
-J’aime transformer des modèles techniques en **vision stratégique** et clarifier des sujets complexes.
+J’accorde une importance particulière à la clarté, la structure et la transmission.
 
 ---
 
@@ -130,11 +124,5 @@ J’aime transformer des modèles techniques en **vision stratégique** et clari
 
 📧 **faresdjamila@gmail.com**  
 📍 Île-de-France  
-🔗 **LinkedIn**: (ton lien)
-
-
-
-📧 faresdjamila@gmail.com  
-📍 Île-de-France  
-🔗 [LinkedIn](https://www.linkedin.com/in/djamila-kamla-fares-1bb5261b6/)
+🔗 LinkedIn : (ton lien)
 
