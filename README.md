@@ -1,98 +1,138 @@
+
 # 👋 Djamila Kamla Fares
 
----
-
-## 📚 Table of Contents / Sommaire
-
-- 🇬🇧 [English version](#-english-version)
-- 🇫🇷 [Version française](#-version-française)
-
----
-
-## 🇬🇧 English version
-# 👋 Hi, I'm Djamila
-🎓 MSc in *Economic Analysis* (CY Cergy Paris Université & ESSEC)  
-📊 Specialized in **applied econometrics**, **data analysis**, and **quantitative modeling**  
-🌱 Experienced in **renewable energy markets** and **public policy evaluation**  
-🌍 Interested in the impact of digital infrastructure, territorial inequalities, and sustainable development
+🎓 MSc in Economic Analysis (ESSEC & CY Cergy)  
+🔋 Junior Consultant – Energy, Low Carbon Strategy & Quantitative Modeling  
+📍 Île-de-France, France  
+📧 faresdjamila@gmail.com  
+🔗 LinkedIn: (add your link here)
 
 ---
 
-## 💡 What I do
+# 📚 Table of Contents
+- 🇬🇧 English version  
+- 🇫🇷 Version française  
 
-- 🔍 Economic data analysis (panel data, time series, Diff-in-Diff)
-- 🧠 Development of decision-making tools (dashboards, automated scripts)
-- 📊 Processing and merging of public administrative data (ARCEP, INSEE, DARES, etc.)
+---
+
+# 🇬🇧 English Version
+
+## 👋 Hi, I'm Djamila
+
+I’m an analyst specialized in **energy markets, economic modeling, and low-carbon strategy**.  
+With a background in **quantitative economics**, I work at the intersection of:
+
+- 🔋 energy transition & decarbonization  
+- 📊 economic & financial modeling (LCOH, pricing, forecasting)  
+- 🧠 decision-support tools  
+- 🔍 market analysis & strategic insights  
+
+I’m particularly interested in the **future of electricity systems**, **hydrogen economics**, **energy market design**, and the broader **geopolitics of the low-carbon transition**.
+
+---
+
+## 💡 What I Do
+
+- 📈 **Energy market analysis** (spot prices, balancing costs, risk & volatility)  
+- ⚙️ **Economic & financial modeling** (LCOH, sensitivity analysis, business cases)  
+- 🧠 **Decision-making tools** (pricing simulators, forecasting apps, internal libraries)  
+- 🔍 **Economic data analysis** (time series, econometrics, causal inference)  
+- 🗂 **Process transformation & data structuring**  
 
 ---
 
 ## 🧰 Languages & Tools
 
-**Languages:**  
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)  
-![SAS](https://img.shields.io/badge/SAS-0277BD?style=flat-square&logo=sas&logoColor=white)  
-![VBA](https://img.shields.io/badge/VBA-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+**Languages**  
+- Python  
+- R  
+- SQL  
+- VBA  
+- SAS (basics)
 
-**Tools:**  
-RStudio · Jupyter Notebook · Excel (advanced + Power Query + VBA) · GitHub · Shiny 
+**Tools & Frameworks**  
+- RStudio · Jupyter Notebook · Streamlit · Shiny  
+- Excel (advanced incl. Power Query & VBA)  
+- GitHub  
+- Power BI  
 
 ---
 
 ## ✨ Goal
 
-Turning complex economic data into clear, rigorous, and accessible insights.  
-Always open to public-interest, data-driven or digital transition projects.
+My objective is to build **clear, useful and strategic tools** helping organizations navigate the complexity of the **energy transition** and make informed decisions.
+
+I love turning technical models into **actionable business insights**, and transforming data into **strategic vision**.
 
 ---
 
-## 📫 Get in touch
+## 📫 Get in Touch
 
-📧 faresdjamila@gmail.com  
+📧 **faresdjamila@gmail.com**  
 📍 Île-de-France  
-🔗 [LinkedIn](https://www.linkedin.com/in/djamila-kamla-fares-1bb5261b6/) 
+🔗 **LinkedIn**: (your link)
 
-## 🇫🇷 Version française
-# 👋 Salut, moi c'est Djamila
+---
 
-🎓 Master *Economic Analysis* (CY Cergy Paris Université & ESSEC)  
-📊 Spécialisée en **économétrie appliquée**, **analyse de données** et **modélisation quantitative**  
-🌱 Expérience dans les **marchés de l’énergie renouvelable** et l’**évaluation des politiques publiques**  
-🌍 Intéressée par l’impact des infrastructures numériques, les inégalités territoriales et le développement durable
+# 🇫🇷 Version Française
+
+## 👋 Salut, moi c’est Djamila
+
+Je suis analyste spécialisée en **marchés de l’énergie, modélisation économique** et **stratégie bas-carbone**.  
+Grâce à une formation quantitative solide et des expériences en entreprise, je travaille au croisement :
+
+- 🔋 de la transition énergétique  
+- 📊 de la modélisation économique et financière (LCOH, pricing, prévisions)  
+- 🧠 des outils d’aide à la décision  
+- 🔍 des études de marché & analyses stratégiques  
+
+Je m’intéresse particulièrement à :  
+la **conception des marchés électriques**, l’économie de l’hydrogène, les **scénarios bas-carbone**, et la géopolitique de l’énergie.
 
 ---
 
 ## 💡 Ce que je fais
 
-- 🔍 Analyse de données économiques (panel, séries temporelles, Diff-in-Diff)
-- 🧠 Développement d’outils pour la prise de décision (dashboards, scripts automatisés)
-- 📊 Traitement de données issues de l’administration publique (ARCEP, INSEE, DARES, etc.)
+- 📈 Analyse des **marchés de l’électricité** (spot, équilibrage, volatilité)  
+- ⚙️ **Modélisation économique et financière** (LCOH, business cases, analyses de sensibilité)  
+- 🧠 Conception d’**outils d’aide à la décision** (simulateurs, applications de prévision, librairies internes)  
+- 🔍 Analyse de données économiques (séries temporelles, économétrie, causalité)  
+- 🗂 Structuration & transformation de processus métiers  
 
 ---
 
-## 🧰 Langages et outils
+## 🧰 Langages & Outils
 
-**Langages :**  
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)  
-![SAS](https://img.shields.io/badge/SAS-0277BD?style=flat-square&logo=sas&logoColor=white)  
-![VBA](https://img.shields.io/badge/VBA-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+**Langages**  
+- Python  
+- R  
+- SQL  
+- VBA  
+- SAS (bases)
 
-**Outils :**  
-RStudio · Jupyter Notebook · Excel (avancé + Power Query + VBA) · GitHub · Shiny 
+**Outils**  
+- RStudio · Jupyter Notebook · Streamlit · Shiny  
+- Excel avancé (Power Query, VBA)  
+- Power BI  
+- GitHub  
 
 ---
 
 ## ✨ Objectif
 
-Apporter des solutions claires, rigoureuses et accessibles à partir de données économiques complexes.  
-Toujours prête à contribuer à des projets d’intérêt public, data science ou transition numérique.
+Construire des modèles, outils et analyses qui permettent aux acteurs du secteur énergie de **prendre de meilleures décisions** dans un contexte de transition bas-carbone.
+
+J’aime transformer des modèles techniques en **vision stratégique** et clarifier des sujets complexes.
 
 ---
 
 ## 📫 Me contacter
+
+📧 **faresdjamila@gmail.com**  
+📍 Île-de-France  
+🔗 **LinkedIn**: (ton lien)
+
+
 
 📧 faresdjamila@gmail.com  
 📍 Île-de-France  
